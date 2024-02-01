@@ -9,7 +9,7 @@ estimated completion times, and a friendly interface!
 4) Option to quit the bot with a 'q' command.
 
 ## Initiation:
-1) To initiate To-Do bot, Run either:
+1) To initiate To-Do bot, run either:
    - python todobot.py
    - python3 todobot.py
 3) Follow the instructions and enjoy!
